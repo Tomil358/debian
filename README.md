@@ -122,13 +122,13 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
   
 ![](./img/Zrzut%20ekranu%20(143).png)
   
-## 4.d Nazwa domyślnego użytkownika  
+## 4.e Nazwa domyślnego użytkownika  
   
     Nazwa: userint01    
   
 ![](./img/Zrzut%20ekranu%20(144).png)
   
-### 4.e Hasło:   
+### 4.f Hasło:   
   
     user_int01    
   
