@@ -31,7 +31,7 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
    ## 2.a Wybór języka: 
 ![](./img/Zrzut%20ekranu%20(133).png)    
    
-   ## Wybór lokalizacji
+   ## 2.b Wybór lokalizacji
 ![](./img/Zrzut%20ekranu%20(138).png)  
     
     Wybór strefy czasowej
