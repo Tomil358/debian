@@ -6,7 +6,7 @@
  Termin realizacji projektu: 10.03.2022 - 24.03.2022  
 
  
-Spis treści
+## Spis treści
 
 ## 1.Instalcja    
   a [Wybor opcji Graphical install  ](#2wstepna-instalacja)
