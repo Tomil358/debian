@@ -27,7 +27,7 @@ Pobieramy obraz Debiana [link](https://www.debian.org)
 Ustawienia językowe:    
 Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i klawiaturę    
   
-   ## Wybór języka: 
+   ## 2.a Wybór języka: 
 ![](./img/Zrzut%20ekranu%20(133).png)    
    
    ## Wybór lokalizacji
