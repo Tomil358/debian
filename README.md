@@ -38,7 +38,9 @@
 
    [Hasło urzytkownika root](#4d-hasło-urzytkownika-root)
 
-   [Nazwa domyślnego użytkownika]() 
+   [Nazwa domyślnego użytkownika](#4d-hasło-urzytkownika-root) 
+
+   [Hasło:]()
   
       1.Instalacja
   
@@ -126,7 +128,7 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
   
 ![](./img/Zrzut%20ekranu%20(144).png)
   
-Hasło:   
+### 4.e Hasło:   
   
     user_int01    
   
