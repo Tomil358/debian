@@ -38,7 +38,7 @@
 
    [Hasło urzytkownika root](#4d-hasło-urzytkownika-root)
 
-   [Nazwa domyślnego użytkownika](#4d-hasło-urzytkownika-root) 
+   [Nazwa domyślnego użytkownika](#4e-nazwa-domyślnego-użytkownika) 
 
    [Hasło:]()
   
