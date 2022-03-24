@@ -34,7 +34,10 @@
    
    [Domena:](#4b-domena) 
 
-   [Ustawienia partycji]() 
+   [Ustawienia partycji](#4c-ustawienia-partycji) 
+
+   [Hasło urzytkownika root]()
+  
       1.Instalacja
   
 Pobieramy obraz Debiana [link](https://www.debian.org)    
@@ -109,7 +112,7 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
   
 ![](./img/Zrzut%20ekranu%20(150).png)
   
-Hasło urzytkownika root  
+#### 4.d Hasło urzytkownika root  
   
     root_int01  
   
