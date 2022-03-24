@@ -19,15 +19,15 @@
    [Wybór klawiatury](#2d-wybór-klawiatury)
 
 ## 3. Co będzie instalowane
-  a) instalacja systemu bazowego -tryb tekstowy 
+ ## a) instalacja systemu bazowego -tryb tekstowy 
  
-    b) instalacja serwera X  
+  ##  b) instalacja serwera X  
 
-    c) instalacja menedzera okien fluxbox  
+  ##  c) instalacja menedzera okien fluxbox  
 
-    d) instalacja i konfiguracja oprogramowania sudo    
+  ##  d) instalacja i konfiguracja oprogramowania sudo    
 
-    f) konfiguracja menedzera okien  
+  ##  f) konfiguracja menedzera okien  
   
 
       1.Instalacja
