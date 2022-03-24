@@ -1,59 +1,62 @@
-          Instalacja i konfiguracja w oparciu o dystrybucję Debian
+# Instalacja i konfiguracja w oparciu o dystrybucję Debian
 <img src ="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" align="right" style="height: 70px"/>    
  
- Wykonawca: Tomasz Molitorys  Kamil Molitorys
+## Wykonawca: Tomasz Molitorys  Kamil Molitorys
 
- Termin realizacji projektu: 10.03.2022 - 17.03.2022  
+## Termin realizacji projektu: 10.03.2022 - 17.03.2022  
 
- Spis treści  
+# Spis treści  
 ## 1.Instalcja    
-  a [Wybor opcji Graphical install  ](#2wstepna-instalacja)
+[1.a Wybor opcji Graphical install  ](#1.a-wybor-opcji-graphical-install)
 
-## 2.Wstepna instalacja:   
-   [Wybór języka](#2a-wybór-języka)
-  
-   [Wybór lokalizacji](#2b-wybór-lokalizacji)
-   
-   [Wybór strefy czasowej](#2c-wybór-strefy-czasowej)  
-   
-   [Wybór klawiatury](#2d-wybór-klawiatury)
+## 2.Wstepna instalacja: 
 
-      1.Instalacja
+[Wybór języka](#2a-wybór-języka)
+
+[Wybór lokalizacji](#2b-wybór-lokalizacji)
+
+[Wybór strefy czasowej](#2c-wybór-strefy-czasowej)  
+
+[Wybór klawiatury](#2d-wybór-klawiatury)
+
+# 1.Instalacja
   
 Pobieramy obraz Debiana [link](https://www.debian.org)    
 
-### 1.a Wybor opcji Graphical install
+## 1.a Wybor opcji Graphical install
     
 ![](debian1.png)
-  
-    2.Wstepna instalacja:  
-Ustawienia językowe:    
+
+2.Wstepna instalacja:  
+
+Ustawienia językowe: 
+
 Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i klawiaturę    
   
-   ## 2.a Wybór języka: 
+## 2.a Wybór języka: 
+
 ![](./img/Zrzut%20ekranu%20(133).png)    
-   
-   ## 2.b Wybór lokalizacji
+ 
+## 2.b Wybór lokalizacji
 ![](./img/Zrzut%20ekranu%20(138).png)  
-    
-   ## 2.c Wybór strefy czasowej
+   
+## 2.c Wybór strefy czasowej
 ![](./img/Zrzut%20ekranu%20(139).png)    
     
-   ## 2.d Wybór klawiatury
+## 2.d Wybór klawiatury
 ![](./img/Zrzut%20ekranu%20(140).png)
   
      
-     3.Co bedziemy instalowane  
-   ## 3.a instalacja systemu bazowego -tryb tekstowy  
+3.Co bedziemy instalowane  
+## 3.a instalacja systemu bazowego -tryb tekstowy  
 
+##  3.b instalacja serwera X  
 
-  ##  3.b instalacja serwera X  
+## 3.c instalacja menedzera okien fluxbox  
 
-   ## 3.c instalacja menedzera okien fluxbox  
+## 3.d instalacja i konfiguracja oprogramowania sudo 
 
-    ## 3.d instalacja i konfiguracja oprogramowania sudo    
-
-   ##  3.e konfiguracja menedzera okien  
+##  3.e konfiguracja menedzera okien  
   
       
     4.Instalacja systemu bazowego  
