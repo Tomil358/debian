@@ -21,7 +21,7 @@
    ##  3.Co bedziemy instalowane  
    [instalacja systemu bazowego -tryb tekstowy](#3a-instalacja-systemu-bazowego--tryb-tekstowy) 
 
-  instalacja serwera X  
+  [instalacja serwera X]() 
 
    instalacja menedzera okien fluxbox  
 
