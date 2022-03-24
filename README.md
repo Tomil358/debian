@@ -11,6 +11,7 @@
 
 ## 2.Wstepna instalacja:   
    [Wybór języka](#2a-wybór-języka)
+  
    Wybór lokalizacji  
    Wybór strefy czasowej   
    Wybór klawiatury
