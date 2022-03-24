@@ -10,7 +10,7 @@
   a [Wybor opcji Graphical install  ](#2wstepna-instalacja)
 
 ## 2.Wstepna instalacja:   
-   Wybór języka: 
+   Wybór języka:(#wybór-języka)
    Wybór lokalizacji  
    Wybór strefy czasowej   
    Wybór klawiatury
