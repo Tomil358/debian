@@ -6,10 +6,10 @@
  Termin realizacji projektu: 10.03.2022 - 17.03.2022  
 
  Spis treści  
-1.Instalcja    
+## 1.Instalcja    
   a [Wybor opcji Graphical install  ](#2-wstepna-instalacja)
 
-2.Wstepna instalacja:   
+## 2.Wstepna instalacja:   
    Wybór języka: 
    Wybór lokalizacji  
    Wybór strefy czasowej   
@@ -19,7 +19,7 @@
   
 Pobieramy obraz Debiana [link](https://www.debian.org)    
 
- 1.a Wybor opcji Graphical install
+### 1.a Wybor opcji Graphical install
     
 ![](debian1.png)
   
