@@ -40,7 +40,7 @@
 
    [Nazwa domyślnego użytkownika](#4e-nazwa-domyślnego-użytkownika) 
 
-   [Hasło:]()
+   [Hasło:](#4f-hasło)
   
       1.Instalacja
   
