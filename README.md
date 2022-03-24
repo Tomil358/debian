@@ -15,11 +15,27 @@
 
 [Wybór lokalizacji](#2b-wybór-lokalizacji)
 
+<<<<<<< HEAD
 [Wybór strefy czasowej](#2c-wybór-strefy-czasowej)  
 
 [Wybór klawiatury](#2d-wybór-klawiatury)
 
 # 1.Instalacja
+=======
+   ##  3.Co bedziemy instalowane  
+   [instalacja systemu bazowego -tryb tekstowy](#3a-instalacja-systemu-bazowego--tryb-tekstowy) 
+
+  [instalacja serwera X]() 
+
+   instalacja menedzera okien fluxbox  
+
+   instalacja i konfiguracja oprogramowania sudo    
+
+   konfiguracja menedzera okien  
+  
+
+      1.Instalacja
+>>>>>>> ce021452eeb57713af939fdee814c6e65b4ed3ec
   
 Pobieramy obraz Debiana [link](https://www.debian.org)    
 
@@ -54,7 +70,11 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
 
 ## 3.c instalacja menedzera okien fluxbox  
 
+<<<<<<< HEAD
 ## 3.d instalacja i konfiguracja oprogramowania sudo 
+=======
+   ## 3.d instalacja i konfiguracja oprogramowania sudo    
+>>>>>>> ce021452eeb57713af939fdee814c6e65b4ed3ec
 
 ##  3.e konfiguracja menedzera okien  
   
