@@ -78,19 +78,19 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
       
     4.Instalacja systemu bazowego  
   
-#### 4.a Nazwa hosta:
+### 4.a Nazwa hosta:
       
     int023   
   
    ![](./img/Zrzut%20ekranu%20(141).png)
   
-#### 4.b Domena:  
+### 4.b Domena:  
       
     s3  
   
 ![](./img/Zrzut%20ekranu%20(142).png)  
 
-#### 4.c Ustawienia partycji   
+### 4.c Ustawienia partycji   
       
     Giuded -> use entire disk -> "wskaż/wybierz odpowiedni dysk" -> Specrate /home partition -> Finish partitioning and write changes to disk.    
   
@@ -112,7 +112,7 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
   
 ![](./img/Zrzut%20ekranu%20(150).png)
   
-#### 4.d Hasło urzytkownika root  
+### 4.d Hasło urzytkownika root  
   
     root_int01  
   
