@@ -120,7 +120,7 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
   
 ![](./img/Zrzut%20ekranu%20(143).png)
   
-## Nazwa domyślnego użytkownika  
+## 4.d Nazwa domyślnego użytkownika  
   
     Nazwa: userint01    
   
