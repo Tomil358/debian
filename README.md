@@ -32,7 +32,9 @@
    ## 4.Instalacja systemu bazowego  
    [Nazwa hosta:](#4a-nazwa-hosta)
    
-   [Domena:]() 
+   [Domena:](#4b-domena) 
+
+   [Ustawienia partycji]() 
       1.Instalacja
   
 Pobieramy obraz Debiana [link](https://www.debian.org)    
@@ -85,7 +87,7 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
   
 ![](./img/Zrzut%20ekranu%20(142).png)  
 
-Ustawienia partycji   
+#### 4.c Ustawienia partycji   
       
     Giuded -> use entire disk -> "wskaż/wybierz odpowiedni dysk" -> Specrate /home partition -> Finish partitioning and write changes to disk.    
   
