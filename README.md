@@ -21,13 +21,13 @@
    ##  3.Co bedziemy instalowane  
    [instalacja systemu bazowego -tryb tekstowy](#3a-instalacja-systemu-bazowego--tryb-tekstowy) 
 
-  [instalacja serwera X]() 
+  [instalacja serwera X](#3b-instalacja-serwera-x) 
 
-   instalacja menedzera okien fluxbox  
+   [instalacja menedzera okien fluxbox](#3b-instalacja-serwera-x) 
 
-   instalacja i konfiguracja oprogramowania sudo    
+   [instalacja i konfiguracja oprogramowania sudo]    
 
-   konfiguracja menedzera okien  
+   [konfiguracja menedzera okien]  
   
 
       1.Instalacja
