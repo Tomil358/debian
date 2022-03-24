@@ -23,7 +23,7 @@
 
   [instalacja serwera X](#3b-instalacja-serwera-x) 
 
-   [instalacja menedzera okien fluxbox](#3b-instalacja-serwera-x) 
+   [instalacja menedzera okien fluxbox]() 
 
    [instalacja i konfiguracja oprogramowania sudo]    
 
