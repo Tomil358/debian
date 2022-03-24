@@ -31,7 +31,8 @@
 
    ## 4.Instalacja systemu bazowego  
    [Nazwa hosta:](#4a-nazwa-hosta)
-
+   
+   [Domena:]() 
       1.Instalacja
   
 Pobieramy obraz Debiana [link](https://www.debian.org)    
