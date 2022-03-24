@@ -30,7 +30,7 @@
    [konfiguracja menedzera okien](#3e-konfiguracja-menedzera-okien)
 
    ## 4.Instalacja systemu bazowego  
-   [Nazwa hosta:]()
+   [Nazwa hosta:](#4a-nazwa-hosta)
 
       1.Instalacja
   
@@ -78,7 +78,7 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
   
    ![](./img/Zrzut%20ekranu%20(141).png)
   
-Domena:  
+#### 4.b Domena:  
       
     s3  
   
