@@ -12,8 +12,8 @@
 ## 2.Wstepna instalacja:   
    [Wybór języka](#2a-wybór-języka)
   
-   [Wybór lokalizacji]()
-   Wybór strefy czasowej   
+   [Wybór lokalizacji](#2b-wybór-lokalizacji)
+   [Wybór strefy czasowej](#2b-wybór-lokalizacji)  
    Wybór klawiatury
 
       1.Instalacja
@@ -34,10 +34,10 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
    ## 2.b Wybór lokalizacji
 ![](./img/Zrzut%20ekranu%20(138).png)  
     
-    Wybór strefy czasowej
+   ## 2.c Wybór strefy czasowej
 ![](./img/Zrzut%20ekranu%20(139).png)    
     
-    Wybór klawiatury
+   ## 2.d Wybór klawiatury
 ![](./img/Zrzut%20ekranu%20(140).png)
   
      
