@@ -3,7 +3,7 @@
  
  Wykonawca: Tomasz Molitorys  Kamil Molitorys
 
- Termin realizacji projektu: 10.03.2022 - 17.03.2022  
+ Termin realizacji projektu: 10.03.2022 - 24.03.2022  
 
  Spis treści  
 ## 1.Instalcja    
@@ -28,7 +28,9 @@
    [instalacja i konfiguracja oprogramowania sudo](#3d-instalacja-i-konfiguracja-oprogramowania-sudo)    
 
    [konfiguracja menedzera okien](#3e-konfiguracja-menedzera-okien)
-  
+
+   ## 4.Instalacja systemu bazowego  
+   [Nazwa hosta:]()
 
       1.Instalacja
   
@@ -70,7 +72,7 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
       
     4.Instalacja systemu bazowego  
   
-Nazwa hosta:
+#### 4.a Nazwa hosta:
       
     int023   
   
