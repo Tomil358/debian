@@ -36,7 +36,9 @@
 
    [Ustawienia partycji](#4c-ustawienia-partycji) 
 
-   [Hasło urzytkownika root]()
+   [Hasło urzytkownika root](#4d-hasło-urzytkownika-root)
+
+   [Nazwa domyślnego użytkownika]() 
   
       1.Instalacja
   
@@ -118,7 +120,7 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
   
 ![](./img/Zrzut%20ekranu%20(143).png)
   
-Nazwa domyślnego użytkownika  
+## Nazwa domyślnego użytkownika  
   
     Nazwa: userint01    
   
