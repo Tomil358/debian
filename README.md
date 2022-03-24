@@ -56,7 +56,7 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
   
      
      3.Co bedziemy instalowane  
-   ####3.a instalacja systemu bazowego -tryb tekstowy  
+   #### 3.a instalacja systemu bazowego -tryb tekstowy  
 
 
   #### 3.b instalacja serwera X  
