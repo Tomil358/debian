@@ -18,18 +18,6 @@
    
    [Wybór klawiatury](#2d-wybór-klawiatury)
 
-## 3. Co będzie instalowane
- a) [instalacja systemu bazowego -tryb tekstowy]()
- 
-  b) instalacja serwera X
-
-  c) instalacja menedzera okien fluxbox  
-
-  d) instalacja i konfiguracja oprogramowania sudo    
-
-  f) konfiguracja menedzera okien  
-  
-
       1.Instalacja
   
 Pobieramy obraz Debiana [link](https://www.debian.org)    
@@ -56,11 +44,16 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
   
      
      3.Co bedziemy instalowane  
-    3.a instalacja systemu bazowego -tryb tekstowy  
-    3.b instalacja serwera X  
-    3.c instalacja menedzera okien fluxbox  
-    3.d instalacja i konfiguracja oprogramowania sudo    
-    3.e konfiguracja menedzera okien  
+   ## 3.a instalacja systemu bazowego -tryb tekstowy  
+
+
+  ##  3.b instalacja serwera X  
+
+   ## 3.c instalacja menedzera okien fluxbox  
+
+    ## 3.d instalacja i konfiguracja oprogramowania sudo    
+
+   ##  3.e konfiguracja menedzera okien  
   
       
     4.Instalacja systemu bazowego  
