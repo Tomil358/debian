@@ -13,8 +13,8 @@
    [Wybór języka](#2a-wybór-języka)
   
    [Wybór lokalizacji](#2b-wybór-lokalizacji)
-   [Wybór strefy czasowej](#2b-wybór-lokalizacji)  
-   Wybór klawiatury
+   [Wybór strefy czasowej](#2c-wybór-strefy-czasowej)  
+   [Wybór klawiatury](#2c-wybór-strefy-czasowej)
 
       1.Instalacja
   
