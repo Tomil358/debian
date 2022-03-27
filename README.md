@@ -505,12 +505,69 @@ lpadmin:x:112:
  </details>
           
 /etc/network/interfaces    
- ![](./img/Zrzut%20ekranu%20(171).png)
-  
+
+<details> 
+
+```sh
+
+# This file describes the network interfaces available on your system
+# and how to activate them. For more information, see interfaces(5).
+
+source /etc/network/interfaces.d/*
+
+# The loopback network interface
+auto lo
+iface lo inet loopback
+
+# The primary network interface
+allow-hotplug ens33
+iface ens33 inet dhcp
+
+```
+</details>
+          
 /etc/resolv.conf    
- ![](./img/Zrzut%20ekranu%20(170).png)
+ 
+ <details>         
 
+ ```
+           
+ domain localdomain
+search localdomain
+nameserver 192.168.181.2
+
+ ```
+  
+</details>
+           
  /etc/sudoers    
-![](./img/Zrzut%20ekranu%20(169).png)
 
+<details>
+          
+```sh
+          
+This file MUST be edited with the 'visudo' command as root.
+#
+# Please consider adding local content in /etc/sudoers.d/ instead of
+# directly modifying this file.
+#
+# See the man page for details on how to write a sudoers file.
+#
+Defaults        env_reset
+Defaults        mail_badpass
+Defaults        secure_path="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:>
+
+# Host alias specification
+
+# User alias specification
+
+# Cmnd alias specification
+
+# User privilege specification
+root    ALL=(ALL:ALL) ALL
+
+```
+          
+</details>          
+          
   [1]: https://code.visualstudio.com/docs/setup/linux
