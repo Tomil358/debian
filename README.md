@@ -50,7 +50,11 @@
    [Instalacja serwera X.org](#5-instalacja-serwera-x)
 
 ## 6.Konfiguracja oraz instalacja fluxbox 
-   [Konfiguracja oraz instalacja fluxbox]()
+   
+   [Konfiguracja oraz instalacja fluxbox](#6konfiguracja-oraz-instalacja-fluxbox-1)
+
+## 7.Instalacja dodatkowego oprogramowania: 
+[Instalacja dodatkowego oprogramowania:]() 
 
       1.Instalacja
   
@@ -194,7 +198,7 @@ Instalacja
   
   ![](./img/Zrzut%20ekranu%20(160).png)
  
-    7.Instalacja dodatkowego oprogramowania:    
+   ### 7.Instalacja dodatkowego oprogramowania:    
 Instalacja xpdf: 
   
     apt-get install xpdf  
