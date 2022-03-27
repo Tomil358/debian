@@ -57,7 +57,7 @@
 
    [Instalacja dodatkowego oprogramowania:](#7instalacja-dodatkowego-oprogramowania-1)
 
-   [Instalacja xpdf:]()
+   [Instalacja xpdf:](#7a-instalacja-xpdf)
 
    [Instalacja lynx:]()
 
