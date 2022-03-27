@@ -3,7 +3,7 @@
  
  Wykonawca: Tomasz Molitorys  Kamil Molitorys
 
- Termin realizacji projektu: 10.03.2022 - 24.03.2022  
+ Termin realizacji projektu: 10.03.2022 - 31.03.2022  
 
  
 # Spis treści
