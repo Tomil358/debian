@@ -43,6 +43,8 @@
    [Nazwa domyślnego użytkownika](#4e-nazwa-domyślnego-użytkownika) 
 
    [Hasło:](#4f-hasło)
+   
+   [Serwer lustrzany:]()  
   
       1.Instalacja
   
