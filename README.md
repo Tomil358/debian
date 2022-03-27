@@ -61,9 +61,11 @@
 
    [Instalacja lynx:](#7b-instalacja-lynx)
 
-   [Instalacja iceweasel:]()  
+   [Instalacja iceweasel:](#7c-instalacja-iceweasel) 
 
- 
+   [Instalacja OpenOffice:]()
+
+
       1.Instalacja
   
 Pobieramy obraz Debiana [link](https://www.debian.org)    
@@ -233,7 +235,7 @@ Poberamy paczkę z internetu można skorzystać ze [strony ](https://pkgs.org/do
       
     apt get install /iceweasel*.deb  
   
-Instalacja OpenOffice:    
+## 7.d Instalacja OpenOffice:    
   
 Przechodzimy na stronę internetową  [link](https://www.openoffice.org/pl/download/) wybieramy wersję *.deb  
   
