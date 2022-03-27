@@ -85,10 +85,9 @@
 
    [Ekran logowania](#12-ekran-logowania) 
 
-
-
-
-
+#
+#
+#
       1.Instalacja
   
 Pobieramy obraz Debiana [link](https://www.debian.org)    
