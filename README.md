@@ -87,7 +87,6 @@
 
 #
 #
-#
       1.Instalacja
   
 Pobieramy obraz Debiana [link](https://www.debian.org)    
