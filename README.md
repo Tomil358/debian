@@ -67,7 +67,13 @@
 
 ## 8.Instalacja i konfiguracja sudo
 
-   [Instalacja sudo]() 
+   [Instalacja sudo](#8a-instalacja-sudo) 
+
+## Konfiguracja użytkownika
+
+   [Konfiguracja użytkownika]()
+
+
 
 
       1.Instalacja
@@ -257,7 +263,7 @@ Przechodzimy na stronę internetową  [link](https://www.openoffice.org/pl/downl
     apt install sudo   
   
  
-    9. Konfiguracja użytkownika  
+   ### 9. Konfiguracja użytkownika  
   
 Dodajemy użytkownika do grupy sudo po zainstalowaniu sudo   
 
