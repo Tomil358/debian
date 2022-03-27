@@ -184,8 +184,8 @@ Powinno się nam ukazać okno (terminala) rozpoznamy to po innej czcionce i powi
   
  ![](./img/Zrzut%20ekranu%20(159).png)   
   
-    6.Konfiguracja oraz instalacja fluxbox  
-### 6.a Instalacja   
+   ### 6.Konfiguracja oraz instalacja fluxbox  
+Instalacja   
   
     apt install fluxbox
   
