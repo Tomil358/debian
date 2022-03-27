@@ -67,7 +67,7 @@
 
 ## 8.Instalacja i konfiguracja sudo
 
-   [Instalacja sudo](Instalacja sudo ) 
+   [Instalacja sudo]() 
 
 
       1.Instalacja
