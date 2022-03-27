@@ -79,7 +79,11 @@
 
 ## 11. Tapeta  
 
-   [Tapeta]()  
+   [Tapeta](#11-tapeta-1)  
+
+12. Ekran logowania 
+
+    [Ekran logowania]() 
 
       1.Instalacja
   
@@ -341,7 +345,7 @@ Pobieramy tapetę z internetu i wykonujemy komendę
   
     nitrogen *nazwa pliku z tapetą*  
     
-   Ekran logowania
+ ### 12. Ekran logowania
    - sudo apt install lightdm
    
    ![](file:///D:/debian%20aso%20dokumentacja/Zrzut%20ekranu%20(59).png)
