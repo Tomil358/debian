@@ -47,7 +47,9 @@
    [Serwer lustrzany:](#4g-serwer-lustrzany)  
 
 ## 5. Instalacja serwera X.org  
-   [Instalacja serwera X.org]()
+   [Instalacja serwera X.org](#5-instalacja-serwera-x)
+
+## 6.Konfiguracja oraz instalacja fluxbox 
   
       1.Instalacja
   
@@ -183,7 +185,7 @@ Powinno się nam ukazać okno (terminala) rozpoznamy to po innej czcionce i powi
  ![](./img/Zrzut%20ekranu%20(159).png)   
   
     6.Konfiguracja oraz instalacja fluxbox  
-Instalacja   
+### 6.a Instalacja   
   
     apt install fluxbox
   
