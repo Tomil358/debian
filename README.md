@@ -63,7 +63,11 @@
 
    [Instalacja iceweasel:](#7c-instalacja-iceweasel) 
 
-   [Instalacja OpenOffice:]()
+   [Instalacja OpenOffice:](#7d-instalacja-openoffice)
+
+## 8.Instalacja i konfiguracja sudo
+
+   [Instalacja sudo]() 
 
 
       1.Instalacja
@@ -246,9 +250,9 @@ Przechodzimy na stronę internetową  [link](https://www.openoffice.org/pl/downl
     Za pomocą komendy tar -xf *pobrany plik*tar.gz  
    
      
-    8.Instalacja i konfiguracja sudo
+   ### 8.Instalacja i konfiguracja sudo
   
-Instalacja sudo  
+## 8.a Instalacja sudo  
   
     apt install sudo   
   
