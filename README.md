@@ -442,7 +442,67 @@ systemd-resolve:*:19065:0:99999:7:::
  
 /etc/group    
   
-![](./img/Zrzut%20ekranu%20(166).png)
+<details>
+
+ ```perl
+
+ root:x:0:
+daemon:x:1:
+bin:x:2:
+sys:x:3:
+adm:x:4:
+tty:x:5:
+disk:x:6:
+lp:x:7:
+mail:x:8:
+news:x:9:
+uucp:x:10:
+man:x:12:
+proxy:x:13:
+kmem:x:15:
+dialout:x:20:
+fax:x:21:
+voice:x:22:
+cdrom:x:24:userint01
+floppy:x:25:userint01
+tape:x:26:
+sudo:x:27:userint01
+audio:x:29:userint01
+dip:x:30:userint01
+www-data:x:33:
+backup:x:34:
+operator:x:37:
+list:x:38:
+irc:x:39:
+src:x:40:
+gnats:x:41:
+shadow:x:42:
+utmp:x:43:
+video:x:44:userint01
+sasl:x:45:
+plugdev:x:46:userint01
+staff:x:50:
+games:x:60:
+users:x:100:
+nogroup:x:65534:
+systemd-timesync:x:101:
+systemd-journal:x:102:
+systemd-network:x:103:
+systemd-resolve:x:104:
+input:x:105:
+kvm:x:106:
+render:x:107:
+crontab:x:108:
+netdev:x:109:userint01
+messagebus:x:110:
+ssh:x:111:
+userint01:x:1000:
+systemd-coredump:x:999:
+lpadmin:x:112:
+          
+ ```        
+ 
+ </details>
           
 /etc/network/interfaces    
  ![](./img/Zrzut%20ekranu%20(171).png)
