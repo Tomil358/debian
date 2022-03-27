@@ -50,7 +50,8 @@
    [Instalacja serwera X.org](#5-instalacja-serwera-x)
 
 ## 6.Konfiguracja oraz instalacja fluxbox 
-  
+   [Konfiguracja oraz instalacja fluxbox]()
+
       1.Instalacja
   
 Pobieramy obraz Debiana [link](https://www.debian.org)    
