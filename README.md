@@ -47,6 +47,7 @@
    [Serwer lustrzany:](#4g-serwer-lustrzany)  
 
 ## 5. Instalacja serwera X.org  
+   [Instalacja serwera X.org]()
   
       1.Instalacja
   
