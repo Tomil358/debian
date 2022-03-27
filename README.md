@@ -59,7 +59,7 @@
 
    [Instalacja xpdf:](#7a-instalacja-xpdf)
 
-   [Instalacja lynx:]()
+   [Instalacja lynx:](#7b-instalacja-lynx)
 
    [Instalacja iceweasel:]()  
 
