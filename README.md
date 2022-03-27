@@ -75,7 +75,11 @@
 
 ## 10. Ikony na pulpit:
 
-   [Ikony na pulpit]()
+   [Ikony na pulpit](#10-ikony-na-pulpit-1)
+
+## 11. Tapeta  
+
+   [Tapeta]()  
 
       1.Instalacja
   
@@ -331,7 +335,8 @@ openoffice4-base.desktop
  MimieType=None
  Name[en_US]=Shutdown
 ```
-    Tapeta   
+    
+### 11. Tapeta   
 Pobieramy tapetę z internetu i wykonujemy komendę   
   
     nitrogen *nazwa pliku z tapetą*  
