@@ -165,9 +165,8 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
   
 ![](./img/Zrzut%20ekranu%20(154).png)
   
-    5. Instalacja serwera X.org  
-  
-### 5.a apt update- aktualizujemy na poczatek cashe zeby wszystko poszlo bezblednie    
+### 5. Instalacja serwera X     
+    apt update- aktualizujemy na poczatek cashe zeby wszystko poszlo bezblednie    
   
 Póżniej 
       
