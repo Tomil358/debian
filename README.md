@@ -354,23 +354,7 @@ sudo apt install lightdm
    
     11.Pliki konfiguracyjne  
 /etc/fstab    
-  # /etc/fstab: static file system information.
-
- Use 'blkid' to print the universally unique identifier for a
- device; this may be used with UUID= as a more robust way to name devices
- that works even if disks are added and removed. See fstab(5).
-
- systemd generates mount units based on this file, see systemd.mount(5).
- Please run 'systemctl daemon-reload' after making changes here.
-
- <file system> <mount point>   <type>  <options>       <dump>  <pass>
- / was on /dev/sda1 during installation
-UUID=948792ed-0a05-462d-9754-15ec450510a8 /               ext4    errors=remoun>
- /home was on /dev/sda6 during installation
-UUID=115f2457-fbb1-451c-9c3b-6778412ef7ae /home           ext4    defaults     >
- swap was on /dev/sda5 during installation
-UUID=70d4548c-984b-41d5-ab04-8756e8ddc8a1 none            swap    sw           >
-/dev/sr0        /media/cdrom0   udf,iso9660 user,noauto     0       0
+ 
 
 
 # /etc/fstab: static file system information.
