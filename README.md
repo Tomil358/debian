@@ -71,10 +71,11 @@
 
 ## 9. Konfiguracja użytkownika
 
-   [Konfiguracja użytkownika]()
+   [Konfiguracja użytkownika](#9-konfiguracja-użytkownika-1)
 
+## 10. Ikony na pulpit:
 
-
+   [Ikony na pulpit]()
 
       1.Instalacja
   
@@ -283,7 +284,7 @@ Autostart
   
     Na końcu pliku dodajemy `/.fluxbox.startup linijkę: exec xterm podmieniamy róznież exec fluxbox na fluxbox  
   
-Ikony na pulpit:
+### 10. Ikony na pulpit:
   
 Instalujemy PCman-Fm oraz nitrogen (tapeta)  
 
