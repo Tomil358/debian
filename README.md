@@ -410,17 +410,47 @@ systemd-timesync:x:101:101:systemd Time Synchronization,,,:/run/systemd:/usr/sb
           
 /etc/shadow    
   
-![](./img/Zrzut%20ekranu%20(172).png) 
+<details>
+ 
+```perl         
   
+root:$y$j9T$AvIgAJKYVO3/hg8BrnnD40$Zwzd6jaHJXv4zd12lzngnX0gwIM5dKPz506JIkmGSs1:19065:0:99999:7:::
+daemon:*:19065:0:99999:7:::
+bin:*:19065:0:99999:7:::
+sys:*:19065:0:99999:7:::
+sync:*:19065:0:99999:7:::
+games:*:19065:0:99999:7:::
+man:*:19065:0:99999:7:::
+lp:*:19065:0:99999:7:::
+mail:*:19065:0:99999:7:::
+news:*:19065:0:99999:7:::
+uucp:*:19065:0:99999:7:::
+proxy:*:19065:0:99999:7:::
+www-data:*:19065:0:99999:7:::
+backup:*:19065:0:99999:7:::
+list:*:19065:0:99999:7:::
+irc:*:19065:0:99999:7:::
+gnats:*:19065:0:99999:7:::
+nobody:*:19065:0:99999:7:::
+_apt:*:19065:0:99999:7:::
+systemd-timesync:*:19065:0:99999:7:::
+systemd-network:*:19065:0:99999:7:::
+systemd-resolve:*:19065:0:99999:7::: 
+  
+ ```
+ </details>       
+ 
 /etc/group    
   
 ![](./img/Zrzut%20ekranu%20(166).png)
+          
 /etc/network/interfaces    
  ![](./img/Zrzut%20ekranu%20(171).png)
   
 /etc/resolv.conf    
  ![](./img/Zrzut%20ekranu%20(170).png)
-/etc/sudoers    
+
+ /etc/sudoers    
 ![](./img/Zrzut%20ekranu%20(169).png)
 
   [1]: https://code.visualstudio.com/docs/setup/linux
