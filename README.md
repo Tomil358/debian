@@ -69,7 +69,7 @@
 
    [Instalacja sudo](#8a-instalacja-sudo) 
 
-## Konfiguracja użytkownika
+## 9. Konfiguracja użytkownika
 
    [Konfiguracja użytkownika]()
 
