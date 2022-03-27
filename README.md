@@ -54,8 +54,16 @@
    [Konfiguracja oraz instalacja fluxbox](#6konfiguracja-oraz-instalacja-fluxbox-1)
 
 ## 7.Instalacja dodatkowego oprogramowania: 
-[Instalacja dodatkowego oprogramowania:]() 
 
+   [Instalacja dodatkowego oprogramowania:](#7instalacja-dodatkowego-oprogramowania-1)
+
+   [Instalacja xpdf:]()
+
+   [Instalacja lynx:]()
+
+   [Instalacja iceweasel:]()  
+
+ 
       1.Instalacja
   
 Pobieramy obraz Debiana [link](https://www.debian.org)    
@@ -199,15 +207,15 @@ Instalacja
   ![](./img/Zrzut%20ekranu%20(160).png)
  
    ### 7.Instalacja dodatkowego oprogramowania:    
-Instalacja xpdf: 
+## 7.a Instalacja xpdf: 
   
     apt-get install xpdf  
   
-Instalacja lynx: 
+## 7.b Instalacja lynx: 
     
     apt-get install lynx  
   
-Instalacja iceweasel:  
+## 7.c Instalacja iceweasel:  
   
 Iceweasel musimy zainstalować za pomocą przeglądarki ponieważ jest przestarzała.  
 Pierwsze pobieramy firefox  
