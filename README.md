@@ -9,7 +9,7 @@
 # Spis treści
 
 ## 1.Instalcja    
-  a [Wybor opcji Graphical install  ](#2wstepna-instalacja)
+   [Wybor opcji Graphical install  ](#2wstepna-instalacja)
 
 ## 2.Wstepna instalacja:   
    [Wybór języka](#2a-wybór-języka)
