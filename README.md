@@ -150,7 +150,7 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
   
 
 
-Serwer lustrzany:  
+### 4.g Serwer lustrzany:  
   
     ftp.pl.debian.org    
   
