@@ -85,6 +85,9 @@
 
    [Ekran logowania](#12-ekran-logowania) 
 
+## 13.Pliki konfiguracyjne
+  [Pliki konfiguracyjne]()    
+
 #
 #
       1.Instalacja
@@ -352,7 +355,7 @@ sudo apt install lightdm
    
    ![](file:///D:/debian%20aso%20dokumentacja/Zrzut%20ekranu%20(59).png)
    
-    11.Pliki konfiguracyjne  
+### 13.Pliki konfiguracyjne  
 /etc/fstab    
  
 <details>
