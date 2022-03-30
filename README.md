@@ -20,7 +20,7 @@
    
    [Wybór klawiatury](#2d-wybór-klawiatury)
 
-   ##  3.Co bedziemy instalowane  
+   ##  3.Co będzie instalowane  
    [instalacja systemu bazowego -tryb tekstowy](#3a-instalacja-systemu-bazowego--tryb-tekstowy) 
 
   [instalacja serwera X](#3b-instalacja-serwera-x) 
@@ -38,7 +38,7 @@
 
    [Ustawienia partycji](#4c-ustawienia-partycji) 
 
-   [Hasło urzytkownika root](#4d-hasło-urzytkownika-root)
+   [Hasło użytkownika root](#4d-hasło-urzytkownika-root)
 
    [Nazwa domyślnego użytkownika](#4e-nazwa-domyślnego-użytkownika) 
 
@@ -112,7 +112,7 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
 ![](./img/Zrzut%20ekranu%20(140).png)
   
      
-     3.Co bedziemy instalowane  
+     3.Co będzie instalowane  
    #### 3.a instalacja systemu bazowego -tryb tekstowy  
 
 
@@ -161,7 +161,7 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
   
 ![](./img/Zrzut%20ekranu%20(150).png)
   
-### 4.d Hasło urzytkownika root  
+### 4.d Hasło użytkownika root  
   
     root_int01  
   
@@ -179,7 +179,7 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
   
 ![](./img/Zrzut%20ekranu%20(145).png)  
   
-    Menedzer okien:  
+    Menedżer okien:  
   
 ![](./img/Zrzut%20ekranu%20(151).png)  
   
@@ -204,7 +204,7 @@ Zostawiamy w większości domyślne ustawienia, zmieniamy strefę czasową i kla
 ![](./img/Zrzut%20ekranu%20(154).png)
   
 ### 5. Instalacja serwera X     
-    apt update- aktualizujemy na poczatek cashe zeby wszystko poszlo bezblednie    
+    apt update- aktualizujemy na poczatek cashe zeby wszystko poszło bezbłędnie    
   
 Póżniej 
       
@@ -225,7 +225,7 @@ Instalacja
   
     apt install fluxbox
   
-    Po ponownym uruchomieniu startx powinnismy byc powitani przez pulpit (nowy)    
+    Po ponownym uruchomieniu startx powinnismy być powitani przez pulpit (nowy)    
   
   ![](./img/Zrzut%20ekranu%20(160).png)
  
@@ -280,7 +280,7 @@ Dodajemy użytkownika do grupy sudo po zainstalowaniu sudo
 
     usermod -aG sudo userint01  
   
-Zezwalamy aby urzytkownik userint01 mógł używac shutdown  
+Zezwalamy aby użytkownik userint01 mógł używać shutdown  
   
     Komenda: sudo visudo  
   
@@ -292,7 +292,7 @@ Dodajemy tą linię przed 0includedir
   
 Autostart   
   
-    Na końcu pliku dodajemy `/.fluxbox.startup linijkę: exec xterm podmieniamy róznież exec fluxbox na fluxbox  
+    Na końcu pliku dodajemy `/.fluxbox.startup linijkę: exec xterm podmieniamy również exec fluxbox na fluxbox  
   
 ### 10. Ikony na pulpit:
   
@@ -322,11 +322,11 @@ openoffice4-base.desktop
  #    
     Instalacja visual Studio code 
  
-   Postepujemy zgodnie z ta stroną [(link)][1]    
+   Postępujemy zgodnie z tą stroną [(link)][1]    
 
  ![](Zrzut%20ekranu%20(57).png)
- Ikona do wyłaczania systemu
- -pobieramy ikone z internetu do pliku `~/.icons.shutdown.png
+ Ikona do wyłączania systemu
+ -pobieramy ikonę z internetu do pliku `~/.icons.shutdown.png
 
  ```
  [Desktop Entry]
